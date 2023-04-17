@@ -1,0 +1,14 @@
+dense 192
+relu
+dense 100
+relu
+dense 20
+reparam 3 0.01
+dense 3
+relu
+dense 20
+relu
+dense 100
+relu
+dense 192
+relu
